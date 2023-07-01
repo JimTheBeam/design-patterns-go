@@ -24,3 +24,15 @@
 * [Приспособленец (Flyweight)](Structural/Flyweight)
 * [Заместитель (Proxy)](Structural/Proxy)
 
+### [Поведенческие (Behavioral)](Behavioral)
+
+* [Цепочка ответственности (Chain Of Responsibility)](Behavioral/ChainOfResponsibility)
+* [Команда (Command)](Behavioral/Command)
+* [Итератор (Iterator)](Behavioral/Iterator)
+* [Посредник (Mediator)](Behavioral/Mediator)
+* [Хранитель (Memento)](Behavioral/Memento)
+* [Наблюдатель (Observer)](Behavioral/Observer)
+* [Состояние (State)](Behavioral/State)
+* [Стратегия (Strategy)](Behavioral/Strategy)
+* [Шаблонный метод (Template Method)](Behavioral/TemplateMethod)
+* [Посетитель (Visitor)](Behavioral/Visitor)
