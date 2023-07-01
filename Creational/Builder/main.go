@@ -11,6 +11,7 @@ func main() {
 	director := Director{&ConcreteBuilder{product}}
 	director.Construct()
 
+	// pizza with mozzarella, pepperoni and tomato sauce on thick dough
 	fmt.Println(product.Bake())
 }
 
